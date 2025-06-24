@@ -1,21 +1,14 @@
-// import { defineConfig } from 'vite'
-// import react from '@vitejs/plugin-react'
-
-// // https://vite.dev/config/
-// export default defineConfig({
-//   plugins: [react()],
-// })
-
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+  base: './', // This is critical for proper asset paths in production
   build: {
-    outDir: 'dist', // Default output directory for Vite
-    assetsInlineLimit: 4096, // Inline assets below 4KB
+    outDir: 'dist',
+    assetsInlineLimit: 4096,
   },
   server: {
-    port: 3000, // Local dev server port
+    port: 3000,
   }
 });
