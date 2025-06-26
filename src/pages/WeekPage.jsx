@@ -9,7 +9,7 @@ const videoLinks = {
   '0.3': '',
   '1.1': 'DrAC99XYRf01qCpryCQgdWsSTLzkSJRt79Gw9ssR02ZsM',
   '1.2': 'l1zgoc028OOCnr2quprfa300oHxzugdwacatpoce2tYuw',
-  '1.3': '',
+  '1.3': 'A7rEA6vw49UQtkkJQG3d3h00lWM7JfiuLsbFpyuMgdcM',
   // ... add your actual playback IDs for each lesson
 };
 
