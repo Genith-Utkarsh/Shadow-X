@@ -4,12 +4,12 @@ import VideoModal from "../components/VideoModal";
 import ToastContainer from "../components/ToastContainer";
 
 const videoLinks = {
-  '0.1': 'DrAC99XYRf01qCpryCQgdWsSTLzkSJRt79Gw9ssR02ZsM',
-  '0.2': 'v69RSHhFelSm4701prP2AUEaT028NgdC02',
-  '0.3': 'v69RSHhFelSm4701prP2AUEaT028NgdC02',
+  '0.1': '',
+  '0.2': '',
+  '0.3': '',
   '1.1': 'DrAC99XYRf01qCpryCQgdWsSTLzkSJRt79Gw9ssR02ZsM',
-  '1.2': 'v69RSHhFelSm4701prP2AUEaT028NgdC02',
-  '1.3': 'v69RSHhFelSm4701prP2AUEaT028NgdC02',
+  '1.2': 'l1zgoc028OOCnr2quprfa300oHxzugdwacatpoce2tYuw',
+  '1.3': '',
   // ... add your actual playback IDs for each lesson
 };
 
